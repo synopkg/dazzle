@@ -1,4 +1,4 @@
-module github.com/pubkey/dazzle
+github.com/gitpod-io/dazzle
 
 go 1.19
 
