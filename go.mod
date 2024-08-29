@@ -1,4 +1,4 @@
-module github.com/gitpod-io/dazzle
+module github.com/synopkg/dazzle
 
 go 1.19
 
